@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "aCjvp+PnFYhWtWXiuehp9vf4Kjt3ZfabV181KT+vn7rBt+iGj8akz83c8q3498oq590qNrFiTPwDJCxqlOknlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\louagga\\source\\repos\\YoutubeDlApi\\Infrastructuur\\Infrastructuur.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\louagga\\.nuget\\packages\\jurassic\\3.2.6\\jurassic.3.2.6.nupkg.sha512",
+    "C:\\Users\\louagga\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\louagga\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\louagga\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\louagga\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\louagga\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\louagga\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\louagga\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\louagga\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\louagga\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\louagga\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\louagga\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\louagga\\.nuget\\packages\\videolibrary\\3.2.2\\videolibrary.3.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

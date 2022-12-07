@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\louagga\\source\\repos\\YoutubeDlApi\\YoutubeDlApi\\YoutubeDlApi.csproj": {}
+    "C:\\Users\\louag\\Desktop\\youtube\\Youtube-Downloader-API\\YoutubeDlApi\\YoutubeDlApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\louagga\\source\\repos\\YoutubeDlApi\\Infrastructuur\\Infrastructuur.csproj": {
+    "C:\\Users\\louag\\Desktop\\youtube\\Youtube-Downloader-API\\Infrastructuur\\Infrastructuur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\louagga\\source\\repos\\YoutubeDlApi\\Infrastructuur\\Infrastructuur.csproj",
+        "projectUniqueName": "C:\\Users\\louag\\Desktop\\youtube\\Youtube-Downloader-API\\Infrastructuur\\Infrastructuur.csproj",
         "projectName": "Infrastructuur",
-        "projectPath": "C:\\Users\\louagga\\source\\repos\\YoutubeDlApi\\Infrastructuur\\Infrastructuur.csproj",
-        "packagesPath": "C:\\Users\\louagga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\louagga\\source\\repos\\YoutubeDlApi\\Infrastructuur\\obj\\",
+        "projectPath": "C:\\Users\\louag\\Desktop\\youtube\\Youtube-Downloader-API\\Infrastructuur\\Infrastructuur.csproj",
+        "packagesPath": "C:\\Users\\louag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\louag\\Desktop\\youtube\\Youtube-Downloader-API\\Infrastructuur\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\louagga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\louag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,8 +60,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -65,21 +69,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\louagga\\source\\repos\\YoutubeDlApi\\YoutubeDlApi\\YoutubeDlApi.csproj": {
+    "C:\\Users\\louag\\Desktop\\youtube\\Youtube-Downloader-API\\YoutubeDlApi\\YoutubeDlApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\louagga\\source\\repos\\YoutubeDlApi\\YoutubeDlApi\\YoutubeDlApi.csproj",
+        "projectUniqueName": "C:\\Users\\louag\\Desktop\\youtube\\Youtube-Downloader-API\\YoutubeDlApi\\YoutubeDlApi.csproj",
         "projectName": "YoutubeDlApi",
-        "projectPath": "C:\\Users\\louagga\\source\\repos\\YoutubeDlApi\\YoutubeDlApi\\YoutubeDlApi.csproj",
-        "packagesPath": "C:\\Users\\louagga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\louagga\\source\\repos\\YoutubeDlApi\\YoutubeDlApi\\obj\\",
+        "projectPath": "C:\\Users\\louag\\Desktop\\youtube\\Youtube-Downloader-API\\YoutubeDlApi\\YoutubeDlApi.csproj",
+        "packagesPath": "C:\\Users\\louag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\louag\\Desktop\\youtube\\Youtube-Downloader-API\\YoutubeDlApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\louagga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\louag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -87,14 +95,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\louagga\\source\\repos\\YoutubeDlApi\\Infrastructuur\\Infrastructuur.csproj": {
-                "projectPath": "C:\\Users\\louagga\\source\\repos\\YoutubeDlApi\\Infrastructuur\\Infrastructuur.csproj"
+              "C:\\Users\\louag\\Desktop\\youtube\\Youtube-Downloader-API\\Infrastructuur\\Infrastructuur.csproj": {
+                "projectPath": "C:\\Users\\louag\\Desktop\\youtube\\Youtube-Downloader-API\\Infrastructuur\\Infrastructuur.csproj"
               }
             }
           }
@@ -120,8 +129,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -133,7 +141,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

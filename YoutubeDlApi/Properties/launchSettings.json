@@ -14,7 +14,7 @@
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "https://youtubedlvideo.netlify.app;http://localhost:5191",
+      "applicationUrl": "https://6390c3dfccc0fc42996e1218--voluble-tartufo-1d28c4.netlify.app;http://localhost:5191",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
